@@ -1,5 +1,6 @@
 version: STSv1
 mode: enforce
-mx: mx.larksuite.com
+mx: mx1.larksuite.com
+mx: mx2.larksuite.com
+mx: mx3.larksuite.com
 max_age: 86400
- 
