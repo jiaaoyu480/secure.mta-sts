@@ -1,6 +1,4 @@
 version: STSv1
 mode: enforce
-mx: mx1.larksuite.com
-mx: mx2.larksuite.com
-mx: mx3.larksuite.com
+mx: *.mail.protection.outlook.com
 max_age: 86400
